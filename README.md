@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/VypressChat-AppImage)](https://github.com/pkgforge-dev/VypressChat-AppImage/releases/latest)
 
 <p align="center">
-  <img src="APPNAME.png" width="128" />
+  <img src="AppDir/APPNAME.png" width="128" />
 </p>
 
 
